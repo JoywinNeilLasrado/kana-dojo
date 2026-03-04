@@ -237,7 +237,7 @@
     "id": 40,
     "text": "\"〜うちに\" means \"while\" or \"before\" something changes.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 41,
@@ -249,7 +249,7 @@
     "id": 42,
     "text": "\"〜ことがある\" means \"sometimes\" when talking about habitual actions.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 43,
