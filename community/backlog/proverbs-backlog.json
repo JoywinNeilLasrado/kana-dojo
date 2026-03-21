@@ -952,8 +952,10 @@
     "romaji": "Zen wa isoge",
     "english": "Hurry to do good",
     "meaning": "Do worthwhile things promptly",
-    "completed": false,
-    "issued": true
+    "completed": true,
+    "issued": false,
+    "completedBy": "wangwangbobo",
+    "completedPR": 9478
   },
   {
     "id": 107,
