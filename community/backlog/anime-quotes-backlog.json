@@ -147,7 +147,7 @@
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Yoshikage Kira",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Narancia Ghirga",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 19,
@@ -186,7 +186,7 @@
     "english": "What?!",
     "anime": "Fist of the North Star",
     "character": "Shin",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
